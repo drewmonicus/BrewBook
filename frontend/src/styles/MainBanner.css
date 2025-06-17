@@ -1,0 +1,10 @@
+.main-banner {
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+}
+
+.highlight {
+  color: #e07c7c;
+}
